@@ -1,0 +1,31 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+/*logo*/
+.logo img{
+	width: 20%;
+	height: 20%;
+	position:absolute;
+	left: 50%;
+	transform: translate(-50%);
+	border: 1px solid;
+}
+
+.nav-area{
+	display: inline-flex;
+	list-style-type: none;
+	text-decoration: none;
+	border: 1px solid;
+
+}
+.nav-area li a{
+	color: #000;
+	text-decoration:none;awe
+	font-family:poppins;
+	padding: 5px 20px;
+	font-size: 16px;
+	margin-top: 5em;
+
+}
